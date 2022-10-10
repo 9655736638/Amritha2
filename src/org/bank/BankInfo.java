@@ -10,5 +10,6 @@ public void fixed() {
 }
 public void deposit() {
 	System.out.println("15%");
+	System.out.println("12");
 }
 }
